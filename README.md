@@ -1,2 +1,2 @@
 # Charfreq run 
-node charfreq.js < file.txt
+$ node charfreq.js < file.txt
